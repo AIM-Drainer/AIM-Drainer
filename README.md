@@ -2,7 +2,7 @@
  
 TELEGRAM [ADMIN](https://t.me/AIM_Admin1)
 
-TELEGRAM [GROUP](https://t.me/AIM_Drainer)
+TELEGRAM [GROUP](https://t.me/AIM_Drainer) 
  
 # ITS ONLY PRE-SALE!!!! 
 # Distribution for educational purposes only!!!

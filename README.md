@@ -4,7 +4,6 @@ TELEGRAM [ADMIN](https://t.me/AIM_Admin1)
   
 TELEGRAM [GROUP](https://t.me/AIM_Drainer) 
  
-# ITS ONLY PRE-SALE!!!! 
 # Distribution for educational purposes only!!!
 
 ![](https://github.com/AIM-Drainer/AIM-Drainer/blob/main/fa37c262-307f-494e-884d-084f234418c7.gif)
@@ -13,9 +12,7 @@ A new drainer that exploits the most serious metamask vulnerabilities! No transa
 All you need is for the person to log in and nothing else!
 Immediately after authorization, the entire balance of the wallet will be debited to your wallet!
 
-🔥PRE-SALE PRICE: 1 ETH🔥
-
-🔥RELEASE PRICE: 2 ETH🔥
+🔥PRICE: 1 ETH🔥
 
 ## `🛡️ Drainer Features`
 ✅ Purchase once.

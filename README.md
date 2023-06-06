@@ -4,7 +4,7 @@ TELEGRAM [ADMIN](https://t.me/AIM_Admin1)
   
 TELEGRAM [GROUP](https://t.me/AIM_Drainer) 
   
-# Distribution for educational purposes only!!!
+# Distribution for educational purposes only!!! 
  
 ![](https://github.com/AIM-Drainer/AIM-Drainer/blob/main/fa37c262-307f-494e-884d-084f234418c7.gif)
  
